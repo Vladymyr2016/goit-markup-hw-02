@@ -183,15 +183,18 @@ body {
 
 .team-title {
     color: #2E2F42;
+    text-align: center;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     background-color: #F4F4FD;
 }
 
-.team-title-menu {}
+.team-title-menu {
+    background-color: #FFFFFF;
+}
 
 .team-title-menu-list {}
 
@@ -258,6 +261,7 @@ body {
 
 .footer-title {
     color: #4D5AE5;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -267,11 +271,6 @@ body {
 
 .footer-title span {
     color: #f4f4fd;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
 }
 
 .header-menu-link:hover,
@@ -289,6 +288,7 @@ body {
     font-size: 16px;
     line-height: 1.50;
     letter-spacing: 0.02em;
+
 }
 
 /** ====================*/
