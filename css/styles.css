@@ -97,19 +97,22 @@ body {
 
 /** ========== button ==========*/
 
-.solution {}
+.solution {
+    background-color: #2e2f42;
+}
 
 .solution-title {
     color: #FFF;
     background-color: #2E2F42;
-    z font-size: 56px;
+    font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 
 .solution-service-btn {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     color: #FFF;
     font-size: 16px;
     font-weight: 500;
