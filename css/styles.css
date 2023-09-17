@@ -23,7 +23,7 @@ body {
 }
 
 .header-logo span {
-    color: #4D5AE5;
+    color: #2e2f42;
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
@@ -37,10 +37,10 @@ body {
 .header-menu-item {}
 
 .header-menu-link {
-    color: #2E2F42;
+    color: #4D5AE5;
     font-size: 16px;
     font-weight: 500;
-    line-height: 0.15;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
