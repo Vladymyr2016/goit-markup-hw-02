@@ -54,9 +54,7 @@ body {
     letter-spacing: 0.02em;
 }
 
-.address {
-    font-style: normal;
-}
+.address {}
 
 .address-menu {}
 
@@ -65,7 +63,6 @@ body {
 .address-menu-link {
     color: #434455;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -154,7 +151,6 @@ body {
 .subject-menu-item {
     color: #434455;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     /* 150% */
     letter-spacing: 0.02em;
@@ -206,7 +202,6 @@ body {
     color: #434455;
     text-align: center;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
     background-color: #FFF;
