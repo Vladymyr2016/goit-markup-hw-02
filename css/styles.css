@@ -83,7 +83,8 @@ body {
 
 .address-menu-link {}
 
-/*
+*/
+
 /** ====================*/
 .visually-hidden {
     margin: -1px;
@@ -93,8 +94,10 @@ body {
     overflow: hidden;
 }
 
+*/
 /** ========== button ==========*/
-*/ .solution {
+
+.solution {
     background-color: #2e2f42;
 }
 
