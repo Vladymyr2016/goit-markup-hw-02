@@ -124,7 +124,6 @@ body {
 .solution-service-btn:focus,
 .solution-service-btn:active {
     cursor: pointer;
-    border-radius: 4px;
     background: #404BBF;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     cursor: pointer;
