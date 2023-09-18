@@ -83,18 +83,6 @@ body {
 
 .address-menu-link {}
 
-*/
-
-/** ====================*/
-.visually-hidden {
-    margin: -1px;
-    white-space: nowrap;
-    clip-path: inset(100%);
-    clip: rect(0 0 0 0);
-    overflow: hidden;
-}
-
-*/
 /** ========== button ==========*/
 
 .solution {
