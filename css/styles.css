@@ -20,43 +20,43 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-decoration: none;
+
 }
 
 .header-logo span {
     color: #2e2f42;
-    font-family: Raleway;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
 }
 
-.header-menu {}
+.header-menu {
+    list-style-type: none;
+}
 
-.header-menu-item {}
+.header-menu-item {
+    list-style-type: none;
+
+}
 
 .header-menu-link {
-    color: #2e2f42;
+    color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.5;
+    line-height: 1, 5;
     letter-spacing: 0.02em;
+    text-decoration: none;
 }
 
 .header-menu-link:hover,
 .header-menu-link:focus,
 .header-menu-link:active {
     color: #404bbf;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 0.15;
-    letter-spacing: 0.02em;
 }
 
 .address {}
 
-.address-menu {}
+.address-menu {
+    list-style-type: none;
+}
 
 .address-menu-item {}
 
@@ -65,6 +65,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-decoration: none;
 }
 
 .address-menu-link:hover,
@@ -135,10 +136,8 @@ body {
 }
 
 .subject-menu-item {
-    color: #434455;
     font-size: 16px;
     line-height: 1.5;
-    /* 150% */
     letter-spacing: 0.02em;
 }
 
@@ -158,12 +157,9 @@ body {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    background-color: #F4F4FD;
 }
 
-.team-title-menu {
-    background-color: #FFFFFF;
-}
+.team-title-menu {}
 
 .team-title-menu-list {
     background-color: #FFFFFF;
@@ -181,7 +177,6 @@ body {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    background-color: #FFF
 }
 
 .team-title-menu-profecion {
@@ -190,7 +185,6 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    background-color: #FFF;
 
 }
 
@@ -253,12 +247,6 @@ body {
 
 .footer-title-span {
     color: #f4f4fd;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    text-decoration: none;
 }
 
 .header-menu-link:hover,
